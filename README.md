@@ -74,5 +74,6 @@ To personalize marketing campaigns, predict customer churn, and measure campaign
 **Sports:**
 To analyze player performance, optimize training, and strategize game plans.
 
-**Conclution**
+**Conclution:**
+
 Overall, data analytics transforms raw data into meaningful insights, enabling organizations to make data-driven decisions and gain a competitive edge.
