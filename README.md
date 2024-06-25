@@ -30,8 +30,10 @@ It often involves optimization and simulation techniques to suggest the best cou
 **Data Integration:** Combining data from different sources to create a unified dataset for analysis.
 
 **Data Analysis:** Applying statistical methods, algorithms, and tools to examine and interpret the data. 
+
 **Data Visualization:** 
 Creating visual representations of the data to help communicate findings and insights clearly. Common tools include charts, graphs, and dashboards.
+
 **Reporting and Communication:**
 Presenting the results of the analysis to stakeholders through reports, presentations, and interactive dashboards to support decision-making.
 
@@ -39,8 +41,10 @@ Presenting the results of the analysis to stakeholders through reports, presenta
 
 **Exploratory Data Analysis (EDA):**
 Using visualization and statistical techniques to explore data and uncover patterns.
+
 **Statistical Analysis**:
 Applying statistical tests and models to draw inferences from the data.
+
 **Machine Learning:** 
 Using algorithms to build models that can learn from data and make predictions.
 
@@ -49,8 +53,10 @@ Data analytics relies on various tools and technologies to perform these process
 
 **Data Management:**
 SQL, NoSQL databases, Hadoop, Spark
+
 **Data Analysis:** 
 R, Python (with libraries like pandas, NumPy, scikit-learn)
+
 **Data Visualization:**
 Tableau, Power BI, D3.js
 **Machine Learning:** 
