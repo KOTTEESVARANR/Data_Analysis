@@ -59,6 +59,7 @@ R, Python (with libraries like pandas, NumPy, scikit-learn)
 
 **Data Visualization:**
 Tableau, Power BI, D3.js
+
 **Machine Learning:** 
 TensorFlow, Keras, PyTorch
 
